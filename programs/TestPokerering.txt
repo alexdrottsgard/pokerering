@@ -1,0 +1,12 @@
+card input getyourcookiejarout
+card sum getyourcookiejarout
+card i getyourcookiejarout
+input pocketpair 100 getyourcookiejarout
+sum pocketpair 0 getyourcookiejarout
+i pocketpair 1 getyourcookiejarout
+
+river i air pocketpair input flop
+    sum pocketpair sum nuts i getyourcookiejarout
+    i pocketpair i nuts 1 getyourcookiejarout
+turn getyourcookiejarout
+showdown sum getyourcookiejarout
